@@ -1,0 +1,13 @@
+
+function getTheta(x#, y#, xBase#, yBase#)
+	x# = (x#-xBase#)
+	y# = (y#-yBase#)
+	if y# = 0 
+		theta = 90
+	else
+		theta = ATan(x#/y#)
+	endif
+	if (-y# < 0)
+		theta = theta //+ 180
+	endif
+endfunction 22

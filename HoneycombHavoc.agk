@@ -1,0 +1,53 @@
+
+[projectfiles]
+FILE_0=main.agc;-1
+FILE_1=levelData;-1
+FILE_2=movementData;-1
+
+[files]
+FILE_NAME_0=0;main.agc;0;0
+FILE_NAME_1=0;levelData;120;1
+
+[project]
+description=
+
+[apk_settings]
+alias=
+app_icon_path=C:\\Users\\andre\\Desktop\\AKG Files\\HoneycombHavoc\\hhIcon.png
+app_name=Honeycomb Hop
+app_type=0
+game_circle_api_key=
+keystore_path=C:\\Users\\andre\\Desktop\\AKG Files\\release.keystore
+orientation=1
+output_path=C:\\Users\\andre\\Desktop\\AKG Files\\HoneycombHavoc\\HoneycombHop.apk
+ouya_icon_path=
+package_name=com.jerseGames.Honeycomb_Hop
+permission_flags=1
+play_app_id=
+sdk_version=0
+shared_user_id=
+version_name=1.3
+version_number=4
+notif_icon_path=
+firebase_config_path=
+
+[ipa_settings]
+app_icon_path=
+app_name=
+build_number=
+device_type=0
+facebook_id=
+orientation=0
+output_path=
+prov_profile_path=
+splash_1136_path=
+splash_2048_path=
+splash_960_path=
+uses_ads=0
+version_number=
+firebase_config_path=
+
+[html5_settings]
+commands_used=0
+dynamic_memory=0
+output_path=
